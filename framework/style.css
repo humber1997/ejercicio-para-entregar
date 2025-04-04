@@ -1,0 +1,13 @@
+.navbar-brand{
+	font-family: cursive;
+	font-size: 25px;
+}
+
+.capp{
+	
+}
+
+.capp:hover{
+	transition: all 0.5s;
+	transform:scale(1.05);
+}

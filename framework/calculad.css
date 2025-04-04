@@ -1,0 +1,15 @@
+.calculator {
+    max-width: 300px;
+    margin: 2rem auto;
+    text-align: center;
+    padding: 1rem;
+}
+.buttons {
+   background-color: aqua;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0.5rem;
+}
+body{
+    background-color: rgb(190, 180, 39);
+}
